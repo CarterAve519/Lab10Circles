@@ -40,7 +40,12 @@ namespace Lab10Circle
 
 
                 Console.WriteLine($"This is the Circumference: {FullCircle.CalculateCircumference()}");
+
                 Console.WriteLine($"This is the Area: {FullCircle.CalculateArea()}");
+
+                Console.WriteLine($"This is the Formatted Circumference: {FullCircle.CalculateFormattedCircumference()}");
+
+                Console.WriteLine($"This is the Formatter Area: {FullCircle.CalculateFormattedArea()}");
 
                 CirCount++;
 

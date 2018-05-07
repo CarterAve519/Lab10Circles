@@ -1,0 +1,7 @@
+C:\Users\CARTE\source\repos\Lab10Circles\Lab10Circles\bin\Debug\Lab10Circles.exe.config
+C:\Users\CARTE\source\repos\Lab10Circles\Lab10Circles\bin\Debug\Lab10Circles.exe
+C:\Users\CARTE\source\repos\Lab10Circles\Lab10Circles\bin\Debug\Lab10Circles.pdb
+C:\Users\CARTE\source\repos\Lab10Circles\Lab10Circles\obj\Debug\Lab10Circles.csprojResolveAssemblyReference.cache
+C:\Users\CARTE\source\repos\Lab10Circles\Lab10Circles\obj\Debug\Lab10Circles.csproj.CoreCompileInputs.cache
+C:\Users\CARTE\source\repos\Lab10Circles\Lab10Circles\obj\Debug\Lab10Circles.exe
+C:\Users\CARTE\source\repos\Lab10Circles\Lab10Circles\obj\Debug\Lab10Circles.pdb
