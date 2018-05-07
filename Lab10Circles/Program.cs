@@ -39,23 +39,30 @@ namespace Lab10Circle
 
 
 
-                Console.WriteLine($"This is the Circumference: {FullCircle.CalculateCircumference()}");
+                //Console.WriteLine($"This is the Circumference: {FullCircle.CalculateCircumference()}");
 
-                Console.WriteLine($"This is the Area: {FullCircle.CalculateArea()}");
+                //Console.WriteLine($"This is the Area: {FullCircle.CalculateArea()}");
 
                 Console.WriteLine($"This is the Formatted Circumference: {FullCircle.CalculateFormattedCircumference()}");
 
                 Console.WriteLine($"This is the Formatter Area: {FullCircle.CalculateFormattedArea()}");
 
+                //This is counting the number of circles made
                 CirCount++;
 
                 Console.WriteLine("Would you like to continue (y/n)");
                 string input = Console.ReadLine();
 
+                if (input == "y")
+                {
+                    continue;
+                }
+
                 while (true)
                 {
                     Console.WriteLine($"Goodbye. You created {CirCount} circle object(s)");
 
+                   
                     if (input == "n")
                     {
 
@@ -63,10 +70,7 @@ namespace Lab10Circle
                         repeat = false;
                         break;
                     }
-                    else if (input == "y")
-                    {
-                        break;
-                    }
+                    
                 }
 
 
